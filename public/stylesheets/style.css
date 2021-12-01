@@ -136,11 +136,11 @@ input {
 }
 
 .delete-post-btn {
-  background-color: #d41414;
+  background-color: #500474;
 }
 
 .delete-post-btn:hover {
-  background-color: #ff643d;
+  background-color: #d80000;
 }
 
 .post {
